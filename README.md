@@ -56,3 +56,7 @@ The samples each hide one thing (a message in pixel bits, a ZIP glued after an i
 - Cannot look inside encrypted archives or encrypted documents.
 - Flags that Office macros exist but does not decompile them; use `olevba` from oletools for that.
 - A `clean` verdict means none of the checks fired. It is not a guarantee that a file is safe and not a replacement for antivirus.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
